@@ -26,6 +26,7 @@
         <Label Margin="430,0,0,0" FontFamily="Comic Sans Ms" FontSize="30">Pilot Info</Label>
         <Label  Margin="430,50,0,0" FontSize="30" FontFamily="Comic Sans Ms"></Label>
         <Label  Margin="430,140,0,0" FontSize="30" FontFamily="Comic Sans Ms"></Label>
-        <Button Background="BlanchedAlmond" Grid.Row="1" FontFamily="Comic Sans Ms" FontSize="30" Width="250" Height="120">Purchase</Button>
+        <Button Background="AntiqueWhite" Grid.Row="1" FontFamily="Comic Sans Ms" FontSize="30" Width="250" Height="120">Purchase</Button>
+        
     </Grid>
 </Window>
